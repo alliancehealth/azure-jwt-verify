@@ -1,27 +1,21 @@
 {
-  "name": "azure-jwt-verify",
+  "name": "pcf-jwt-verify",
   "version": "1.0.0",
-  "description": "Verify JWT Token issued by Azure Active Directory B2C",
+  "description": "Verify JWT Token issued by PCF",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/99xt/azure-jwt-verify.git"
+    "url": "git+https://github.com/alliancehealth/pcf-jwt-verify.git"
   },
   "keywords": [
-    "azure",
+    "pcf",
     "b2c",
     "jwt",
     "verify"
   ],
-  "author": "99xtechnology.com",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/99xt/azure-jwt-verify/issues"
-  },
-  "homepage": "https://github.com/99xt/azure-jwt-verify#readme",
   "dependencies": {
     "bluebird": "^3.4.7",
     "jsonwebtoken": "^7.2.1",
