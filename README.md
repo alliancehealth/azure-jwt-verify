@@ -15,7 +15,7 @@ pcf-jwt-verify
 
 ### Initialize module
 ```javascript
-var pcfJWT = require('azure-jwt-verify');
+var pcfJWT = require('pcf-jwt-verify');
 
 ```
 

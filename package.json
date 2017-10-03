@@ -1,6 +1,6 @@
 {
   "name": "pcf-jwt-verify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Verify JWT Token issued by PCF",
   "main": "index.js",
   "scripts": {
